@@ -1,0 +1,20 @@
+{
+  "name": "Fusion235 Token List",
+  "logoURI": "https://fusion235.com/wp-content/uploads/2025/06/fusion235_logo_256x256.png",
+  "timestamp": "2025-06-21T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0xceD5bd5B1F5e7c0f820D4617Bfee0d23d7ECCdc9",
+      "name": "Fusion235",
+      "symbol": "FUSE",
+      "decimals": 18,
+      "logoURI": "https://fusion235.com/wp-content/uploads/2025/06/fusion235_logo_256x256.png"
+    }
+  ]
+}
